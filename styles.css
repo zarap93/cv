@@ -1,0 +1,10 @@
+ body {
+            background-color: #EAF6F6;
+        }
+        hr {
+            width: 10%;
+            border: 7px white;
+            border-style: none none dotted;
+            color: white;
+            background-color: #EAF6F6;
+        }
